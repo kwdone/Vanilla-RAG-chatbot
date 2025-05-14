@@ -1,0 +1,27 @@
+To compare foods, use the following rules:
+
+1. Higher protein is better for:
+   - Muscle building
+   - Satiety (feeling full)
+   - Weight management
+
+2. Lower fat is better for:
+   - Weight loss
+   - Heart health (especially low saturated fat)
+
+3. Lower calories is better for:
+   - Calorie-restricted diets
+   - Weight loss
+
+4. Higher fiber is better for:
+   - Digestion
+   - Blood sugar control
+   - Satiety
+
+5. Lower sugar and carbs are better for:
+   - Diabetics
+   - Low-carb or keto diets
+
+6. Water content helps with hydration and fullness with fewer calories.
+
+You can compare foods using these criteria based on the values in the nutrition dataset.

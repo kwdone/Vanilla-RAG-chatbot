@@ -32,4 +32,9 @@ temp/
 
 # Local development settings
 instance/
-.webassets-cache 
+.webassets-cache
+
+# Data files
+data/*
+!data/kaggle_dataset.csv
+!data/README.md 

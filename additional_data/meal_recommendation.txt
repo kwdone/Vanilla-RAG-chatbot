@@ -1,0 +1,129 @@
+Meal: Greek Yogurt with Berries
+Type: Breakfast
+Diet: High-Protein, Low-Carb
+Ingredients: Greek yogurt, strawberries, blueberries, honey
+Calories: 280 kcal
+Protein: 20g
+Carbs: 18g
+Fat: 10g
+Tags: high-protein, low-carb
+
+Meal: Hummus and Veggie Wrap
+Type: Lunch
+Diet: Vegan
+Ingredients: Whole wheat wrap, hummus, carrots, lettuce
+Calories: 310 kcal
+Protein: 10g
+Carbs: 35g
+Fat: 12g
+Tags: vegan, lunch
+
+Meal: Meat Loaf and Chips  
+Type: Dinner  
+Diet: Regular  
+Ingredients: Ground beef, breadcrumbs, egg, potatoes, ketchup  
+Calories: 620 kcal  
+Protein: 28g  
+Carbs: 45g  
+Fat: 35g  
+Tags: regular, comfort food, high-fat
+
+Meal: Pho Bo (Beef Pho)  
+Type: Lunch  
+Diet: Regular  
+Ingredients: Rice noodles, beef, broth, herbs, onions  
+Calories: 450 kcal  
+Protein: 30g  
+Carbs: 60g  
+Fat: 10g  
+Tags: regular, soup, high-protein, Asian, Vietnamese
+
+Meal: Banh Mi (Vietnamese Sandwich)  
+Type: Lunch  
+Diet: Regular  
+Ingredients: Baguette, pork, pate, vegetables (pickled carrots, cilantro), mayo  
+Calories: 520 kcal  
+Protein: 25g  
+Carbs: 50g  
+Fat: 20g  
+Tags: regular, sandwich, Asian, street food, Vietnamese
+
+Meal: Goi Cuon (Spring Rolls)  
+Type: Snack  
+Diet: Regular  
+Ingredients: Rice paper, shrimp, herbs, lettuce, rice noodles  
+Calories: 120 kcal  
+Protein: 10g  
+Carbs: 18g  
+Fat: 4g  
+Tags: regular, snack, fresh, light, Vietnamese
+
+Meal: Com tam (Broken Rice with Grilled Pork)  
+Type: Lunch  
+Diet: Regular  
+Ingredients: Broken rice, grilled pork, pickled vegetables, cucumber  
+Calories: 600 kcal  
+Protein: 35g  
+Carbs: 80g  
+Fat: 20g  
+Tags: regular, main course, Vietnamese, grilled meat
+
+Meal: Hu Tieu (Noodle Soup)  
+Type: Lunch  
+Diet: Regular  
+Ingredients: Rice noodles, pork, shrimp, herbs, broth  
+Calories: 500 kcal  
+Protein: 28g  
+Carbs: 60g  
+Fat: 15g  
+Tags: regular, soup, Asian, high-protein, Vietnamese
+
+Meal: Bun Cha (Grilled Pork with Noodles)  
+Type: Dinner  
+Diet: Regular  
+Ingredients: Pork belly, rice noodles, herbs, fish sauce, lettuce  
+Calories: 650 kcal  
+Protein: 40g  
+Carbs: 50g  
+Fat: 30g  
+Tags: regular, grilled, high-protein, Vietnamese, spicy, savory
+
+Meal: Banh Xeo (Vietnamese Pancake)  
+Type: Lunch  
+Diet: Regular  
+Ingredients: Rice flour, pork, shrimp, bean sprouts, herbs  
+Calories: 400 kcal  
+Protein: 25g  
+Carbs: 45g  
+Fat: 15g  
+Tags: regular, Asian, savory, street food, Vietnamese
+
+Meal: Cha Gio (Fried Spring Rolls)  
+Type: Snack  
+Diet: Regular  
+Ingredients: Ground pork, rice paper, mushrooms, vermicelli noodles, spices  
+Calories: 150 kcal  
+Protein: 8g  
+Carbs: 18g  
+Fat: 7g  
+Tags: regular, fried, snack, Vietnamese
+
+Meal: Canh Chua (Vietnamese Sour Soup)  
+Type: Dinner  
+Diet: Regular  
+Ingredients: Fish, tamarind, tomatoes, pineapple, herbs  
+Calories: 250 kcal  
+Protein: 20g  
+Carbs: 25g  
+Fat: 5g  
+Tags: regular, sour, light, healthy
+
+Meal: Thit Kho (Braised Pork with Eggs)  
+Type: Dinner  
+Diet: Regular  
+Ingredients: Pork belly, eggs, coconut water, fish sauce, sugar  
+Calories: 700 kcal  
+Protein: 35g  
+Carbs: 50g  
+Fat: 40g  
+Tags: regular, savory, braised, Vietnamese

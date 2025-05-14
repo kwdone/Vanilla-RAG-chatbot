@@ -1,0 +1,79 @@
+Use the following rules to recommend meals based on the user's goals, preferences, and health conditions.
+
+---
+
+1. General Meal Balance:
+- Each meal should ideally include:
+  - A source of protein (e.g., chicken, tofu, eggs, lentils)
+  - A source of complex carbohydrates (e.g., brown rice, quinoa, oats, sweet potato)
+  - Vegetables (fiber, vitamins, and minerals)
+  - Healthy fats in moderation (e.g., olive oil, nuts, avocado)
+
+---
+
+2. Goal-Based Recommendations:
+
+- Weight Loss:
+  - Emphasize low-calorie, high-protein meals
+  - Avoid added sugars and refined carbs
+  - Include lots of fiber-rich vegetables
+  - Moderate healthy fats
+
+- Muscle Gain:
+  - Emphasize high-protein meals with sufficient calories
+  - Include both carbs and fats for energy
+  - Post-workout meals should prioritize protein + fast-digesting carbs
+
+- Maintenance:
+  - Balanced macros: ~30% protein, ~40% carbs, ~30% fat
+  - Include variety for micronutrient coverage
+
+---
+
+3. Health Conditions:
+
+- Diabetic:
+  - Low glycemic index carbs (e.g., legumes, non-starchy vegetables)
+  - Avoid sugary foods and refined carbs
+  - Include lean proteins and healthy fats to stabilize blood sugar
+
+- Hypertension:
+  - Limit sodium
+  - Emphasize potassium-rich foods (e.g., bananas, spinach)
+  - Include whole grains and avoid processed foods
+
+- Vegan:
+  - Ensure B12, iron, and protein sources (e.g., tofu, lentils, fortified cereals)
+  - Include diverse plant-based proteins
+  - Combine grains and legumes for complete proteins
+
+---
+
+4. Time-Based Meal Ideas:
+
+- Breakfast:
+  - Oatmeal with berries and chia seeds
+  - Boiled eggs and whole-grain toast
+  - Smoothie with spinach, banana, and protein powder
+
+- Lunch:
+  - Lentil soup with whole-grain bread
+  - Chickpea and spinach curry with brown rice
+
+- Dinner:
+  - Baked salmon with sweet potato and broccoli
+  - Stir-fried tofu with vegetables and brown rice
+  - Turkey lettuce wraps with hummus and cucumber
+
+---
+
+5. Personalization Factors:
+- Account for allergies, preferences (e.g., lactose-free, nut-free)
+- Adjust portion sizes based on age, weight, and activity level
+- Always confirm goal and context before recommending meals
+
+---
+
+Example Use Case:
+Q: Recommend a high-protein lunch for muscle gain.
+A: Grilled chicken breast with quinoa, roasted vegetables, and a drizzle of olive oil.
