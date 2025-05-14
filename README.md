@@ -69,3 +69,4 @@ python main.py
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
+This model is currently deployed on Google Colab and provides API to https://github.com/minhnvm2307/Mobile-App-Project 
